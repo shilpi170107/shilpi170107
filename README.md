@@ -3,14 +3,6 @@
 <h3 align="center">
 💻 Computer Science Student | 🚀 C++ Developer | 🌐 Web Developer
 </h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff66c4&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
-</p>
 ---
 
 ## 🚀 About Me
@@ -127,13 +119,6 @@ height="40" width="40" />
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 
 
 <p align="center">
