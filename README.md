@@ -5,11 +5,12 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;DSA+Enthusiast;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff66c4&height=100&section=footer"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-6f6d-4dcb-bec2-2c0f4fbbf7b6.gif" width="100%">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
+</p>
 ---
 
 ## 🚀 About Me
@@ -100,12 +101,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 
 ## 🌐 Connect With Me
 
@@ -133,6 +128,14 @@ height="40" width="40" />
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeXl2NDZkanU1N3N2MGpmb2NydzdlZHBqYng1NWVncDRlejIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="850"/>
 </p>
@@ -140,5 +143,5 @@ height="40" width="40" />
 ---
 
 <p align="center">
-✨ <i>"Consistency beats intensity."</i> ✨
+✨ <i>"Consistency is the key to success"</i> ✨
 </p>
