@@ -94,6 +94,12 @@
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcode.card.workers.dev/https://leetcode.com/u/shilpi_2007?theme=dark&font=baloo&extension=null" />
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="left">
