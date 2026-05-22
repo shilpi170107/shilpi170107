@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Shilpi Aggarwal
 
-<!--
-**shilpi170107/shilpi170107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 First Year Engineering Student  
+🌱 Learning C++, DSA & Web Development  
+🚀 Exploring Open Source & Building Projects  
+✨ Passionate about Problem Solving and Technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tech Stack
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Git & GitHub
+
+---
+
+# 📌 Projects
+
+🔹 Placement Tracker  
+🔹 Portfolio Website  
+🔹 TECHSPRINT-GDG  
+
+---
+
+# 📊 GitHub Stats
+
+![Shilpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilpi170107&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shilpi170107&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+- Email: shilpiaggarwal200007@gmail.com
