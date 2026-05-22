@@ -4,6 +4,27 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=gradient&customColorList=25,30,35,36" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=25,30,35,36"
+  />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;DSA+Enthusiast;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20💖&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=14,17,18,20" 
+  />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
