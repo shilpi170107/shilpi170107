@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
 <h3 align="center">
-Computer Science Student | C++ Developer | Web Developer
+💻 Computer Science Student | 🚀 C++ Developer | 🌐 Web Developer
 </h3>
 
 ---
@@ -10,56 +10,87 @@ Computer Science Student | C++ Developer | Web Developer
 
 - 🎓 First Year Engineering Student
 - 🌱 Learning C++, DSA & Web Development
-- 💻 Exploring modern web technologies
-- ⚡ Passionate about problem solving
-- 🚀 Open Source Enthusiast
+- 💡 Passionate about Problem Solving
+- ⚡ Exploring Open Source
+- 🚀 Building Projects & Improving Skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+## 👩‍💻 Languages
 
-![C++](https://img.shields.io/badge/C++-111827?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-### ⚙️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-![React](https://img.shields.io/badge/React.js-111827?style=flat-square)
-![Next](https://img.shields.io/badge/Next.js-111827?style=flat-square)
-![Node](https://img.shields.io/badge/Node.js-111827?style=flat-square)
-![Express](https://img.shields.io/badge/Express.js-111827?style=flat-square)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=flat-square)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
 
 ---
 
-### 🛠️ Tools
+## ⚙️ Frameworks & Libraries
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square)
-![VSCode](https://img.shields.io/badge/VSCode-111827?style=flat-square)
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🧩 Core Concepts
 
-![OOP](https://img.shields.io/badge/OOP-111827?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-111827?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-111827?style=flat-square)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-111827?style=flat-square)
+<p align="left">
+
+<img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-4ECDC4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating_Systems-5C7CFA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Networks-F59F00?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 🏆 Competitive Programming
 
-- ⭐ Practicing DSA regularly
-- 🔥 Improving problem solving skills
-- 💡 Solving LeetCode questions in C++
+- ⭐ Solving DSA Questions Regularly
+- 🔥 Improving Problem Solving Skills
+- 💡 Practicing C++ Daily
 
 ---
 
@@ -70,19 +101,19 @@ Computer Science Student | C++ Developer | Web Developer
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
 <img align="center"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-height="35" width="35" />
+height="40" width="40" />
 </a>
 
 <a href="https://github.com/shilpi170107" target="blank">
 <img align="center"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-height="35" width="35" />
+height="40" width="40" />
 </a>
 
 <a href="mailto:shilpiaggarwal200007@gmail.com">
 <img align="center"
 src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-height="35" width="35" />
+height="40" width="40" />
 </a>
 
 </p>
@@ -93,6 +124,8 @@ height="35" width="35" />
 <img src="https://i.pinimg.com/originals/61/7d/9f/617d9f9d6e2036e9f791f7f4f5f9c5b5.gif" width="850"/>
 </p>
 
+---
+
 <p align="center">
-⚡ <i>"Consistency beats intensity."</i>
+✨ <i>"Consistency beats intensity."</i> ✨
 </p>
