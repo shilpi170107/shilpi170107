@@ -42,6 +42,40 @@
   />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bc9b3f6-43df-4c6f-bf5d-66d9f6a0f4f8.gif"/>
+</p>
+
+<p align="center">
+━━━ ⋆⋅☆⋅⋆ ━━━
+</p>
+
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,d8bfd8&height=6&section=header"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,17,20"/>
+</p>
+
+<p align="center">
+༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄
+</p>
+
+<p align="center">
+♡ ⋆ ˚｡⋆୨୧˚ Pink Aesthetic ˚୨୧⋆｡˚ ⋆ ♡
+</p>
+
+<p align="center">
+
+╭━━━･❪ 💖 ❫ ･━━━╮
+
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
