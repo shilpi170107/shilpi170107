@@ -1,15 +1,12 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20💖&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=14,17,18,20" 
-  />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
+
 <h3 align="center">
 💻 Computer Science Student | 🚀 C++ Developer | 🌐 Web Developer
 </h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;DSA+Enthusiast;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
@@ -134,7 +131,7 @@ height="40" width="40" />
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeXl2NDZkanU1N3N2MGpmb2NydzdlZHBqYng1NWVncDRlejIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="850"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeXl2NDZkanU1N3N2MGpmb2NydzdlZHBqYng1NWVncDRlejIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
 </p>
 
 ---
