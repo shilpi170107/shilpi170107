@@ -24,6 +24,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750221-2e7f0e77-4f1b-4d7e-9a39-7b8c9e4f9c03.gif" width="100%">
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=gradient&customColorList=6,11,17,20"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20💜&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=2,5,24,30"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shilpi%20Aggarwal%20✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=gradient&customColorList=14,15,16,17"
+  />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
