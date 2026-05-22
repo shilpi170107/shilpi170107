@@ -1,9 +1,18 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20GitHub%20💖&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient&customColorList=24,20,14,17" 
+  />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
 <h3 align="center">
 💻 Computer Science Student | 🚀 C++ Developer | 🌐 Web Developer
 </h3>
----
+
+
 
 ## 🚀 About Me
 
@@ -13,7 +22,7 @@
 - ⚡ Exploring Open Source
 - 🚀 Building Projects & Improving Skills
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -33,7 +42,7 @@
 
 </p>
 
----
+
 
 ## ⚙️ Frameworks & Libraries
 
@@ -51,7 +60,7 @@
 
 </p>
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -67,7 +76,7 @@
 
 </p>
 
----
+
 
 ## 🧩 Core Concepts
 
@@ -83,7 +92,7 @@
 
 </p>
 
----
+
 
 ## 🏆 Competitive Programming
 
@@ -91,7 +100,7 @@
 - 🔥 Improving Problem Solving Skills
 - 💡 Practicing C++ Daily
 
----
+
 
 
 ## 🌐 Connect With Me
@@ -118,7 +127,7 @@ height="40" width="40" />
 
 </p>
 
----
+
 
 
 <p align="center">
