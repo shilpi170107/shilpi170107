@@ -98,7 +98,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/shilpi-aggarwal-b67a49364" target="blank">
 <img align="center"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 height="40" width="40" />
@@ -121,7 +121,7 @@ height="40" width="40" />
 ---
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/61/7d/9f/617d9f9d6e2036e9f791f7f4f5f9c5b5.gif" width="850"/>
+<img src="https://i.pinimg.com/originals/61/7d/9f/617d9f9d6e2036e9f791f7f4f5f9c5b5.gif](https://pin.it/1H3T73ydl" width="850"/>
 </p>
 
 ---
