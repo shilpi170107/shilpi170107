@@ -1,81 +1,24 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Shilpi%20Aggarwal%20💖&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=gradient&customColorList=24,20,17,14"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,17,14"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,17,14&height=4"
-  />
-</p>
-
-<p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216649433-cb0c5a2d-7d3e-4f3f-92b6-9bb0d0d87f8b.gif"/>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750221-2e7f0e77-4f1b-4d7e-9a39-7b8c9e4f9c03.gif" width="100%">
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=gradient&customColorList=6,11,17,20"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20💜&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=2,5,24,30"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shilpi%20Aggarwal%20✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=gradient&customColorList=14,15,16,17"
-  />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bc9b3f6-43df-4c6f-bf5d-66d9f6a0f4f8.gif"/>
-</p>
-
-<p align="center">
-━━━ ⋆⋅☆⋅⋆ ━━━
-</p>
-
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,d8bfd8&height=6&section=header"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,17,20"/>
-</p>
-
-<p align="center">
-༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄༄
-</p>
-
-<p align="center">
-♡ ⋆ ˚｡⋆୨୧˚ Pink Aesthetic ˚୨୧⋆｡˚ ⋆ ♡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&color=gradient&customColorList=20,24,25"/>
 </p>
 
 <p align="center">
 
-╭━━━･❪ 💖 ❫ ･━━━╮
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
 
 </p>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient&customColorList=24,20,17"/>
+</p>
+
+<p align="center">
+════════════════ ♡ ════════════════
+</p>
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
