@@ -4,6 +4,12 @@
 💻 Computer Science Student | 🚀 C++ Developer | 🌐 Web Developer
 </h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;DSA+Enthusiast;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-6f6d-4dcb-bec2-2c0f4fbbf7b6.gif" width="100%">
+
 ---
 
 ## 🚀 About Me
@@ -93,6 +99,12 @@
 - 💡 Practicing C++ Daily
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 ## 🌐 Connect With Me
