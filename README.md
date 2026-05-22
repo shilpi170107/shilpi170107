@@ -1,16 +1,4 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
-</p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&color=gradient&customColorList=20,24,25"/>
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
-
-</p>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient&customColorList=24,20,17"/>
