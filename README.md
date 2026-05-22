@@ -97,10 +97,6 @@
 # 💻 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=shilpi_2007&theme=Dark" height="220"/>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/shilpi_2007?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
