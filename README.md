@@ -1,3 +1,29 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Shilpi%20Aggarwal%20💖&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=gradient&customColorList=24,20,17,14"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,17,14"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,17,14&height=4"
+  />
+</p>
+
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216649433-cb0c5a2d-7d3e-4f3f-92b6-9bb0d0d87f8b.gif"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750221-2e7f0e77-4f1b-4d7e-9a39-7b8c9e4f9c03.gif" width="100%">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
