@@ -139,7 +139,7 @@ height="40" width="40" />
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeXl2NDZkanU1N3N2MGpmb2NydzdlZHBqYng1NWVncDRlejIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeXl2NDZkanU1N3N2MGpmb2NydzdlZHBqYng1NWVncDRlejIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="520"/>
 </p>
 
 ---
