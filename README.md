@@ -41,3 +41,14 @@
 # 🌐 Connect With Me
 
 - Email: shilpiaggarwal200007@gmail.com
+
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
