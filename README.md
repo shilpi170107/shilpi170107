@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20GitHub%20💖&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient&customColorList=24,20,14,17" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient&customColorList=14,16,18,20" 
   />
 </p>
 
