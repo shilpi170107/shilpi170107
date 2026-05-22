@@ -94,15 +94,6 @@
 
 ---
 
-# 💻 LeetCode Journey
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shilpi_2007?theme=dark&font=Nunito&ext=heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shilpi170107&theme=react-dark&hide_border=true" width="95%"/>
-</p>
 
 ## 🌐 Connect With Me
 
