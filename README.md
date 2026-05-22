@@ -4,11 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient&customColorList=24,20,17"/>
 </p>
 
+
+
+<h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
+
 <p align="center">
 ════════════════ ♡ ════════════════
 </p>
-
-<h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
 
 
 <h3 align="center">
