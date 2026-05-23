@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient&customColorList=24,20,17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=gradient&customColorList=24,20,34"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shilpi Aggarwal</h1>
