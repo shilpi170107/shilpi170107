@@ -39,11 +39,11 @@ A fun browser-based game where you can play against the computer.
 
 ## 🧩 Coding Profiles
 
-- 💻 LeetCode: [Your LeetCode Profile](https://leetcode.com/u/sa_2007/)
+- 💻 LeetCode: [My LeetCode Profile](https://leetcode.com/u/sa_2007/)
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shilpi-aggarwal-b67a49364/)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shilpi-aggarwal-b67a49364/)
 - 📧 Feel free to connect with me!
 
 ### ✨ Thanks for visiting my profile!
