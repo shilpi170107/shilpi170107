@@ -2,48 +2,34 @@
 
 ### 💻 Aspiring Software Developer | DSA Enthusiast | CSE Student
 
-I'm a Computer Science student passionate about **problem-solving, Data Structures & Algorithms, and building web projects**.
+I'm a Computer Science student passionate about **problem-solving, Data Structures & Algorithms, and software development**.
 
+- 🎓 Pursuing B.Tech in Computer Science Engineering
 - 🌱 Currently learning **Data Structures & Algorithms and Web Development**
-- 💻 Building projects using **HTML, CSS, and JavaScript**
-- 🧩 Love solving coding problems and improving my problem-solving skills
-- 🚀 Exploring new technologies and building projects along the way!
+- 💻 Working with **C++, HTML, CSS, and JavaScript**
+- 🧩 Solved 500+ coding problems across various platforms
+- 🚀 Always eager to learn new technologies and improve my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Tic Tac Toe Game
-
-A simple and interactive two-player Tic Tac Toe game built using HTML, CSS, and JavaScript.
-
-🔗 **[View Repository](https://tic-tac-toe-xi-pearl.vercel.app/)**
-
-### ✊ Rock Paper Scissors
-
-A fun browser-based game where you can play against the computer.
-
-🔗 **[View Repository](https://stone-paper-scissors-one-iota.vercel.app/)**
-
-> More projects coming soon! 🚀
 
 ---
 
 ## 🧩 Coding Profiles
 
-- 💻 LeetCode: [My LeetCode Profile](https://leetcode.com/u/sa_2007/)
+- 💻 **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sa_2007/)
+
+---
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shilpi-aggarwal-b67a49364/)
-- 📧 Feel free to connect with me!
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shilpi-aggarwal-b67a49364/)
 
-### ✨ Thanks for visiting my profile!
+---
+
+⭐ *Always learning, always growing!* 
