@@ -10,25 +10,25 @@ I'm a Computer Science student passionate about **problem-solving, Data Structur
 - 🧩 Solved 500+ coding problems across various platforms
 - 🚀 Always eager to learn new technologies and improve my development skills.
 
----
+
 
 ## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,tailwind,git,github" />
 </p>
----
+
 
 ## 🧩 Coding Profiles
 
 - 💻 **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sa_2007/)
 
----
+
 
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shilpi-aggarwal-b67a49364/)
 
----
+
 
 ⭐ *Always learning, always growing!* 
