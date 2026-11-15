@@ -15,9 +15,8 @@ I'm a Computer Science student passionate about **problem-solving, Data Structur
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,react,github" />
 </p>
-
 
 ## 🧩 Coding Profiles
 
